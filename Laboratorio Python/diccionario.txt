@@ -1,0 +1,5 @@
+Dog=Perro
+Chair=Silla
+Table=Mesa
+Window=Ventana
+Desk=Escritorio
